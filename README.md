@@ -4,7 +4,7 @@ MyBike is a fully responsive, modern landing page designed to effectively showca
 
 ## Live Demo
 
-Experience the live website: [myBike](https://sany8k.github.io/landing-page-my-bike/)
+Experience the live website: [MyBike](https://sany8k.github.io/landing-page-my-bike/)
 
 ## Design Reference
 
